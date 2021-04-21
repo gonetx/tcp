@@ -15,9 +15,6 @@
   <a href="https://github.com/gonetx/tcp/actions?query=workflow%3ATest">
     <img src="https://img.shields.io/github/workflow/status/gonetx/tcp/Test?label=%F0%9F%A7%AA%20tests&style=flat&color=75C46B">
   </a>
-  <a>
-    <img src="https://counter.gofiber.io/badge/gonetx/tcp">
-  </a>
 </p>
 
 `tcp` is a package providing utility functions for tcp.
